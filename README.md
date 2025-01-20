@@ -23,11 +23,11 @@ How to Run
 
 Clone this repository:
 
-git clone https://github.Com/yourusername/knowankit-photograph-encryption-the usage of-chaos-concept.Git
+git clone https://github.Com/charan618-sys/image-encryption-system.Git
 
 Navigate to the mission directory:
 
-cd knowankit-picture-encryption-using-chaos-principle
+cd image-encryption-system
 
 Run the gui.Py record to launch the utility:
 
